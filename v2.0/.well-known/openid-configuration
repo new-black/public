@@ -3,7 +3,7 @@
   "authorization_endpoint": "https://ajaxfans.b2clogin.com/ajaxfans.onmicrosoft.com/b2c_1a_signuporsigninwithkmsi/oauth2/v2.0/authorize",
   "token_endpoint": "https://ajaxfans.b2clogin.com/ajaxfans.onmicrosoft.com/b2c_1a_signuporsigninwithkmsi/oauth2/v2.0/token",
   "end_session_endpoint": "https://ajaxfans.b2clogin.com/ajaxfans.onmicrosoft.com/b2c_1a_signuporsigninwithkmsi/oauth2/v2.0/logout",
-  "jwks_uri": "https://ajaxfans.b2clogin.com/ajaxfans.onmicrosoft.com/b2c_1a_signuporsigninwithkmsi/discovery/v2.0/keys",
+  "jwks_uri": "https://raw.githubusercontent.com/new-black/public/refs/heads/main/discovery/v2.0/keys",
   "response_modes_supported": [
     "query",
     "fragment",
